@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trusted Operations Demo</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="no_ble_no_fun">Cannot proceed without Bluetooth</string>
+    <string name="no_location_no_fun">Bluetooth requires location permission</string>
+    <string name="ok">OK</string>
+    <string name="coarse_location_unavailable">Coarse Location not available</string>
+
+
+
+</resources>
